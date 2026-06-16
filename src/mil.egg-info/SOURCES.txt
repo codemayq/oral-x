@@ -1,0 +1,17 @@
+pyproject.toml
+setup.py
+src/mil/__init__.py
+src/mil/config.py
+src/mil/dataset.py
+src/mil/inference.py
+src/mil/model.py
+src/mil/offline_feature_prepare.py
+src/mil/train.py
+src/mil/utils.py
+src/mil/wsi_processor.py
+src/mil/wsi_processor_fast.py
+src/mil.egg-info/PKG-INFO
+src/mil.egg-info/SOURCES.txt
+src/mil.egg-info/dependency_links.txt
+src/mil.egg-info/requires.txt
+src/mil.egg-info/top_level.txt
